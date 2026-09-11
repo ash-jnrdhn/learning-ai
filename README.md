@@ -5,11 +5,6 @@ optimizing neural networks. I run data center infrastructure for AI
 workloads and want to understand the software layer that my hardware
 is actually serving.
 
-## Structure
-- `day01_...` → Python basics: variables, types, conditionals
-- `day06_...` → collections and loops
-- ...
-
 ## Log
 | Day | Topic | Notes |
 |-----|-------|-------|
