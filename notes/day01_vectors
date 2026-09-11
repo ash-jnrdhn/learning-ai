@@ -1,0 +1,22 @@
+Vectors can be seen differently by different legends.
+  A Physicist sees a vector as a one sided arrow on a plane which can be placed anywhere in space, in any direction, and any length.
+  A Computer Scientist sees a vector as, basically a list, with numbers on it, for eg: [5, 10], horizontally or vertically.
+  A Mathematician, sees vectors as both. 
+    The length and direction of the arrow is based on the vector list, for eg (1,3) which is x and y axis respectively.
+    The only difference from physics is: vector in maths always is at the origin of the xy plane (2d) or the xyz chart (3d)
+      whereas Physics says a vector can be placed and spread anywhere in space. 
+      The math numbers help the world explain vector using computer calculations
+
+    ideally, an xy vector looks like: (1,3) or [1,
+                                                3]
+    vector addition works like: [1,   [2,   [3,
+                                 3] +  4] =  7]
+    It's the same on the plane/chart.
+    How is it calculated, the arrows, the addition?
+      First go 1 to the right in X axis (since it's positive 1), then 3 to the top. Thats first vector. Then go 2 to the right, and 4 to the top. thats the addition of first and second vector.
+
+    Similar for multiplication. 2 [vector] is just elongating the arrow twice as long. - This shows that Scalar can STRETCH
+    1/3 [ vector ] is just shortening the arrow to 1/3rd of it's size - This shows that Scalar can SQUISH
+    -1/8 [vector] is flipping the vector towards the negative side. This is a negative scalar. - This shows that Scalar can FLIP
+    Vectors have the ability to scale when Scalar interacts with a vector, hence we call the numbers that scale a vector as scalar. \
+      So in 2[vector], 2 is the scalar. 1/3 in the previous eg. was a scalar.
